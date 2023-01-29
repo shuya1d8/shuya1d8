@@ -1,4 +1,7 @@
-### Hi there 👋
+GitHubの使い方を少しずつ勉強中
+
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **shuya1d8/shuya1d8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
