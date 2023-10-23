@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am studying how to use GitHub.
+I'm studying how to use GitHub, but I'm slacking off right now.
 
 
 <!--
